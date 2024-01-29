@@ -42,7 +42,7 @@ class Notify {
 
             <div class="notification__subtitle">\n
 
-              <span>${getRandomNumber(10, 59)} hace segundos</span>\n
+              <span>před ${getRandomNumber(10, 59)} sekundami</span>\n 
 
               <img class="notification__checkmark" src="./assets/notification-ok.svg" alt="">\n
 
@@ -94,19 +94,9 @@ const prodName = "Iphone 15 Pro";
 
 const data = [
 	{
-		name: "Carlos Cruz",
+		name: "František Peca",
 
-		address: "España",
-
-		desc: `${prodName}`,
-
-		img: `${prodImg}`,
-	},
-
-	{
-		name: "Juan Rodriguez",
-
-		address: "España",
+		address: "Česká republika",
 
 		desc: `${prodName}`,
 
@@ -114,19 +104,9 @@ const data = [
 	},
 
 	{
-		name: "Luis Torres",
+		name: "Antonín Holec",
 
-		address: "España",
-
-		desc: `${prodName}`,
-
-		img: `${prodImg}`,
-	},
-
-	{
-		name: "Miguel Ortiz",
-
-		address: "España",
+		address: "Česká republika",
 
 		desc: `${prodName}`,
 
@@ -134,9 +114,29 @@ const data = [
 	},
 
 	{
-		name: "José Sánchez",
+		name: "Jindřich Urban",
 
-		address: "España",
+		address: "Česká republika",
+
+		desc: `${prodName}`,
+
+		img: `${prodImg}`,
+	},
+
+	{
+		name: "Josef Trojan",
+
+		address: "Česká republika",
+
+		desc: `${prodName}`,
+
+		img: `${prodImg}`,
+	},
+
+	{
+		name: "Ludvík Truxa",
+
+		address: "Česká republika",
 
 		desc: `${prodName}`,
 
