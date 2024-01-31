@@ -36,7 +36,7 @@ class Notify {
 
             <div class="notification__title">\n
 
-            ganado ${e}\n
+            vyhrál ${e}\n
 
             </div>\n
 
@@ -94,19 +94,9 @@ const prodName = "Iphone 15 Pro";
 
 const data = [
 	{
-		name: "František Peca",
+		name: "Štefan Pražák",
 
-		address: "Česká republika",
-
-		desc: `${prodName}`,
-
-		img: `${prodImg}`,
-	},
-
-	{
-		name: "Antonín Holec",
-
-		address: "Česká republika",
+		address: "České republiky",
 
 		desc: `${prodName}`,
 
@@ -114,19 +104,9 @@ const data = [
 	},
 
 	{
-		name: "Jindřich Urban",
+		name: "Antonin Dzurko",
 
-		address: "Česká republika",
-
-		desc: `${prodName}`,
-
-		img: `${prodImg}`,
-	},
-
-	{
-		name: "Josef Trojan",
-
-		address: "Česká republika",
+		address: "České republiky",
 
 		desc: `${prodName}`,
 
@@ -134,9 +114,29 @@ const data = [
 	},
 
 	{
-		name: "Ludvík Truxa",
+		name: "Michal Slany",
 
-		address: "Česká republika",
+		address: "České republiky",
+
+		desc: `${prodName}`,
+
+		img: `${prodImg}`,
+	},
+
+	{
+		name: "Juraj Tomaš",
+
+		address: "České republiky",
+
+		desc: `${prodName}`,
+
+		img: `${prodImg}`,
+	},
+
+	{
+		name: "Dušan Červenák",
+
+		address: "České republiky",
 
 		desc: `${prodName}`,
 
