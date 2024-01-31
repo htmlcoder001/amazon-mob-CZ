@@ -28,7 +28,7 @@ class Notify {
 
             <div class="notification__subtitle">\n
 
-              <b class="notification__name">${i}</b> de\n
+              <b class="notification__name">${i}</b> z\n
 
               <span class="notification__city">${t}</span>\n
 
